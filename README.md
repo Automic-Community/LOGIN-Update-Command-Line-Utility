@@ -20,8 +20,8 @@ Documenation and Instructions
 <p><strong>&nbsp;</strong></p>
 <p>Automatically update the content of LOGIN Objects for AWA, ARA or ASO (AE) using a simple command.</p>
 <p><strong>Usage:</strong></p>
-<p>1- Download</p>
-<p>2- Unzip Files &amp; rename the connection.config.template to connection.config</p>
+<p>1- Download and unzip all files</p>
+<p>2- Unzip LOGIN_Update.zip &amp; rename the connection.config.template to connection.config</p>
 <p>3- Modify content of connection.config</p>
 <p>4- use the command line (options available with parameter -h)</p>
 <p>&nbsp;</p>
